@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='EAM-CLI',
+    name='AKM-CLI',
     version='1.0',
     packages=['cli', 'cli.commands'],
     include_package_data=True,
